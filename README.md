@@ -35,10 +35,10 @@ src/
 ├── assets/
 ├── components/
 ├── stores/
-├── types/
 ├── utils/
 ├── App.tsx
-├── main.tsx
+├── index.tsx
+├── types.ts
 └── index.css
 ````
 
